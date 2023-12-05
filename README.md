@@ -17,6 +17,11 @@ vii.  Mini Statement
 
 ## Screenshots
 
+![ATM interface](https://github.com/shreyansh2024it/ATM-Simulator_System/assets/93786597/10189485-893e-4f07-a5e8-d242a8e65752)
+![atm](https://github.com/shreyansh2024it/ATM-Simulator_System/assets/93786597/f3dff0cc-7819-4be7-a54a-196b00cb37f1)
+![image](https://github.com/shreyansh2024it/ATM-Simulator_System/assets/93786597/2f65d535-64e8-488e-a5a7-5bb272866072)
+
+
 
 
 
